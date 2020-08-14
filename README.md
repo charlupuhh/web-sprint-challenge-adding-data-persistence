@@ -47,12 +47,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain the difference between `Relational Databases` and `SQL`.
-
+SQL is a type of relational database, which is something that stores data that are related to one another
 2. Why do tables need a `primary key`?
-
+So you can easily reference and identify a specific data point/row
 3. What is the name given to a table column that references the primary key on another table.
-
+Foreign key
 4. What do we need in order to have a _many to many_ relationship between two tables.
+Use an intermediate table to turn these relationships into one to many relationships
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
